@@ -1,0 +1,1 @@
+logstash is used to filter and process different type of data.
